@@ -1,0 +1,1 @@
+// Iterative generation failed for src/hooks/useGauntletGame.ts. Check console.
